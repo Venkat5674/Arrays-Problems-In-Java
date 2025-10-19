@@ -9,7 +9,7 @@ class CopyArray {
         int[] arr = new int[size];
         int[] copy = new int[size];
 
-        System.out.println("Enter elements:");
+        System.out.println("Enter The elements:");
         for (int i = 0; i < size; i++) {
             arr[i] = sc.nextInt();
             copy[i] = arr[i];
