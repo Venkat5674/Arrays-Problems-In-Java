@@ -20,6 +20,6 @@ public class ElementSearch {
         }
 
         // Display result
-        System.out.println(found ? "Element Found" : "Not Found");
+        System.out.println(found ? "Element is Found" : "Not Found");
     }
 }
