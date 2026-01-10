@@ -8,7 +8,7 @@ public class ArrayReverser {
 
     public static void main(String[] args) {
         // Initialize an array
-        int[] originalArray = {1, 2, 3, 4, 5, 6, 7};
+        int[] originalArray = {1, 2, 3, 4, 5, 6, 7, 8, 9};
 
         // Print the original array
         System.out.print("Original Array: ");
