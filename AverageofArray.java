@@ -9,7 +9,7 @@ class AverageOfArray{
         int [] arr = new int[size];
         
         int sum = 0;
-        System.out.println("Enter the Elements of Array : ");
+        System.out.println("Enter the No.of Elements of Array : ");
         for(int i = 0; i < size; i++){
             arr[i] = sc.nextInt();
             sum += arr[i]; 
